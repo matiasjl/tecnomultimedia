@@ -5,7 +5,6 @@
 
 **DEADLINE:** lunes 3 a la medianoche (afecta la evaluación)
 **METODO:** link github (branch tp3) como "comentario de entrega" del TP3
-**EJEMPLO:** https://github.com/matiasjl/tecnomultimedia/tree/tp3
 
 ## Herramientas
 
